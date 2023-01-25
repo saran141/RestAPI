@@ -25,7 +25,7 @@ router.post('/post', async (req, res) => {
 
 //Get all Method
 router.get('/getAll', (req, res) => {
-    res.send('Get All API')
+    res.send('Get All API Data')
 })
 
 //Get by ID Method
